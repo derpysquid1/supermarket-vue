@@ -16,6 +16,14 @@
 		"cf-typegen": "wrangler types"
 	},
 	"dependencies": {
+		"@floating-ui/vue": "^1.1.9",
+		"@popperjs/core": "^2.11.8",
+		"@tailwindcss/vite": "^4.1.13",
+		"bootstrap": "^5.3.8",
+		"element-plus": "^2.11.2",
+		"jquery": "^3.7.1",
+		"portal-vue": "^3.0.0-beta.0",
+		"tailwindcss": "^4.1.13",
 		"vue": "^3.5.18",
 		"vue-router": "^4.5.1"
 	},
